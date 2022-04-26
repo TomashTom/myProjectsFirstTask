@@ -1,0 +1,138 @@
+<Customers>
+    <Customer>
+        <cusid>11</cusid>
+        <cusmname>Jonas</cusmname>
+        <cussurname>Jonkutis</cussurname>
+        <cusphone>865289961</cusphone>
+        <cusaddress>Azolo g.1</cusaddress>
+        <year>22</year>
+            <Bookid>1</Bookid>
+            <Bookname>Name1</Bookname>
+            <Bookowner>Owner1</Bookowner>
+            <Year>2000</Year>
+            <Booklocation>Poland</Booklocation>
+            <Language> Polish</Language>
+            <Price>10.5</Price>
+            <Filmkid>1</Filmkid>
+            <Filmname>War</Filmname>
+            <Filmowner>Stiwen Albert</Filmowner>
+            <Language>Polish</Language>
+            <Filmlocation>Poland</Filmlocation>
+            <Year>2019</Year>
+            <Videotapeid>01</Videotapeid>
+            <Videotapename>World 1</Videotapename>
+            <Videotapeowner>Johnsone Krooze</Videotapeowner>
+            <Videotapeyear>1998</Videotapeyear>
+            <Videotapelanguage>Spanish</Videotapelanguage>
+            <Videotapeprice>29.85</Videotapeprice>
+    </Customer>
+
+    <Customer>
+        <cusid>15</cusid>
+        <cusmname>Jakub</cusmname>
+        <cussurname>Savickas</cussurname>
+        <cusphone>865289888</cusphone>
+        <cusaddress>Agotos g.8</cusaddress>
+        <year>18</year>
+            <Bookid>2</Bookid>
+            <Bookname>Name2</Bookname>
+            <Bookowner>Owner2</Bookowner>
+            <Year>2000</Year>
+            <Booklocation>Poland</Booklocation>
+            <Language> Polish</Language>
+            <Price>10.5</Price>
+            <Filmkid>10</Filmkid>
+            <Filmname>300 Spartance</Filmname>
+            <Filmowner>Stiwen Johanson</Filmowner>
+            <Language>English</Language>
+            <Filmlocation>England</Filmlocation>
+            <Year>2015</Year>
+            <Videotapeid>02</Videotapeid>
+            <Videotapename>World 2 </Videotapename>
+            <Videotapeowner>Johnsone Krooze</Videotapeowner>
+            <Videotapeyear>1998</Videotapeyear>
+            <Videotapelanguage>Spanish</Videotapelanguage>
+            <Videotapeprice>29.85</Videotapeprice>
+   </Customer>
+    <Customer>
+        <cusid>Cusid</cusid>
+        <cusmname>Cusmname</cusmname>
+        <cussurname>Cussurname</cussurname>
+        <cusphone>Cusphone</cusphone>
+        <cusaddress>Cusaddress</cusaddress>
+        <Year>Year</Year>
+            <Bookid>3</Bookid>
+            <Bookname>Name3</Bookname>
+            <Bookowner>Owner3</Bookowner>
+            <Year>200</Year>
+            <Booklocation>Poland</Booklocation>
+            <Language> Polish</Language>
+            <Price>10.5</Price>
+            <Filmkid>15</Filmkid>
+            <Filmname>War 2</Filmname>
+            <Filmowner>Stiwen Johanson</Filmowner>
+            <Language>Polish</Language>
+            <Filmlocation>Poland</Filmlocation>
+            <Year>2019</Year>
+            <Videotapeid>03</Videotapeid>
+            <Videotapename>World 3</Videotapename>
+            <Videotapeowner>Johansone Krooze</Videotapeowner>
+            <Videotapeyear>1998</Videotapeyear>
+            <Videotapelanguage>Spanish</Videotapelanguage>
+            <Videotapeprice>29.85</Videotapeprice>
+    </Customer>
+    <Customer>
+        <cusid>Cusid</cusid>
+        <cusmname>Cusmname</cusmname>
+        <cussurname>Cussurname</cussurname>
+        <cusphone>Cusphone</cusphone>
+        <cusaddress>Cusaddress</cusaddress>
+        <year>Year</year>
+            <Bookid>4</Bookid>
+            <Bookname>Name4</Bookname>
+            <Bookowner>Owner4</Bookowner>
+            <Year>2000</Year>
+            <Booklocation>Poland</Booklocation>
+            <Language> Polish</Language>
+            <Price>10.5</Price>
+            <Filmkid>100</Filmkid>
+            <Filmname>War 3</Filmname>
+            <Filmowner>Stiwen Albert</Filmowner>
+            <Language>Polish</Language>
+            <Filmlocation>Poland</Filmlocation>
+            <Year>2000</Year>
+            <Videotapeid>04</Videotapeid>
+            <Videotapename>World 4</Videotapename>
+            <Videotapeowner>Johansone Krooze</Videotapeowner>
+            <Videotapeyear>1998</Videotapeyear>
+            <Videotapelanguage>Spanish</Videotapelanguage>
+            <Videotapeprice>29.85</Videotapeprice>
+    </Customer>
+    <Customer>
+        <cusid>Cusid</cusid>
+        <cusmname>Cusmname</cusmname>
+        <cussurname>Cussurname</cussurname>
+        <cusphone>Cusphone</cusphone>
+        <cusaddress>Cusaddress</cusaddress>
+        <year>Year</year>
+            <Bookid>5</Bookid>
+            <Bookid>Name5</Bookid>
+            <Bookname>Owner5</Bookname>
+            <Year>2000</Year>
+            <Booklocation>Poland</Booklocation>
+            <Language> Polish</Language>
+            <Price>10.5</Price>
+            <Filmkid>18</Filmkid>
+            <Filmname>War 4</Filmname>
+            <Filmowner>Stiwen Albert</Filmowner>
+            <Language>Polish</Language>
+            <Filmlocation>2019</Filmlocation>
+            <Year>Year</Year>
+            <Videotapeid>05</Videotapeid>
+            <Videotapename>World 5</Videotapename>
+            <Videotapeowner>Johansone Krooze</Videotapeowner>
+            <Videotapeyear>1998</Videotapeyear>
+            <Videotapelanguage>Spanish</Videotapelanguage>
+            <Videotapeprice>29.85</Videotapeprice>
+    </Customer>
+</Customers>
